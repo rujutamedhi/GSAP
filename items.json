@@ -1,0 +1,22 @@
+[
+    { "name": "CREAMY PASTA",
+       "image":"/images/pasta.png",
+       "ratings":4.5,
+    "ingredients":"pasta (made from wheat flour and water), and a sauce like marinara, alfredo, or pesto, often with vegetables, meat, or cheese."
+   },
+    { "name": "CHEESY PIZZA",
+       "image":"/images/pizza.png",
+       "ratings":4.3,
+    "ingredients":"pizza dough, tomato sauce, cheese (like mozzarella), and toppings such as pepperoni, vegetables, or herbs."
+   },
+    { "name": "FLUFFY PANCAKE",
+      "image":"/images/pancake.png",
+      "ratings":3.5,
+    "ingredients":"flour, milk, eggs, and baking powder, often sweetened with sugar and topped with syrup, butter, or fruit."
+  },
+    { "name": "SPICY NOODLES" ,
+      "image":"/images/noodles.png",
+      "ratings":5.0,
+    "ingredients":"wheat or rice flour noodles, cooked with broth or sauce, and combined with ingredients like vegetables, meat, soy sauce, or spices."
+  }
+]
